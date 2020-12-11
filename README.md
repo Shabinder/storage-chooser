@@ -1,3 +1,6 @@
+Forked from https://github.com/codekidX/storage-chooser.
+Fixed Android 11 bug.
+
 # Storage Chooser [!News](https://github.com/codekidX/storage-chooser/tree/inline-3.0#android-10-news)
 
 ![SC Features](http://i.imgur.com/nmqPJok.gif)
