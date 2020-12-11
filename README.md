@@ -1,5 +1,10 @@
-Forked from https://github.com/codekidX/storage-chooser.
+[![](https://jitpack.io/v/noelchew/storage-chooser.svg)](https://jitpack.io/#noelchew/storage-chooser)
+
+Forked from https://github.com/codekidX/storage-chooser/releases/tag/2.0.4.4.
 Fixed Android 11 bug.
+```gradle
+implementation com.github.noelchew:storage-chooser:2.0.4.4a
+```
 
 # Storage Chooser [!News](https://github.com/codekidX/storage-chooser/tree/inline-3.0#android-10-news)
 
